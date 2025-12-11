@@ -1,5 +1,2 @@
-# useless-extension
-
-This is the README for your extension "useless-extension". After writing up a brief description, we recommend including the following sections.
-
-
+# A Complete Guide to the Project
+This is a completly useless README file for a completely useless project.
